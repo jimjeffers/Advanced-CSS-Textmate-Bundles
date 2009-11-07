@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* COLORS
+   ${1:Body Background:}       ${2:#2F2C22}
+   ${3:Main Text:             #B3A576
+   Links:                 #9C6D25
+   Dark Brown Border:     #222019
+   Green Headline:        #958944}}
+*/$0</string>
+	<key>name</key>
+	<string>comment: colors</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>/</string>
+	<key>uuid</key>
+	<string>34A135FA-AB9A-455F-8C9F-D004205A94B2</string>
+</dict>
+</plist>

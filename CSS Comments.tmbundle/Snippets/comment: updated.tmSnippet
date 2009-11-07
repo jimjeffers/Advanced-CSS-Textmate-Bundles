@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*	${1:Working Title}
+	Updated:	${2:Thu} ${3:10.18.07} @ ${4:5:15 p.m.}
+	Author:		${5:Your Name}
+	----------------------------------------------------*/$0</string>
+	<key>name</key>
+	<string>comment: updated</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>/</string>
+	<key>uuid</key>
+	<string>D310EBE9-DED2-48B4-A61D-C4A58AAA98F1</string>
+</dict>
+</plist>

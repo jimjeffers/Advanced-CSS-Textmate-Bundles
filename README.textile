@@ -1,0 +1,16 @@
+h1. Advanced CSS Textmate Bundles
+
+This is a collection of bundles that I've created to encourage and enhance best practices in css. The library currently contains two bundles.
+
+# CSS Comments
+# CSS (proprietary)
+
+h2. CSS Comments
+
+This bundle contains snippets that use '/' as a tab trigger. This bundle allows you to implement advanced comments for declaring authorship, defining sections, or embedding best practices into your css file.
+
+h2. CSS (proprietary)
+
+Are you tired of trying to remember all of the -webkit or -moz properties for box shadow or border radius? Yeah me too! I don't want to use ecssxtender yet either. It seems to complex and slow on my high end macbookpro so I'd rather do the legwork of embedding those styles into my css.
+
+This bundle will make that a piece of cake. It embeds the proprietary properties beneath the official rule for you. Type the rule in once and it binds the values to all of the proprietary methods! If you need to adjust it just delete the block of indented rules below the rule and use the tab trigger again. This is a very simple solution. Of course your css file gets quite large due to the repetition of rules. It's our best bet for performance at the moment!

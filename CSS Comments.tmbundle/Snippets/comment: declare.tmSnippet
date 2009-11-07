@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*   
+Theme Name: ${1:Name}
+Theme URI: ${2:URL}
+Description: ${3:a-brief-description}
+Author: ${4:your-name}
+Author URI: ${5:your-URI}
+Template: ${6:use-this-to-define-a-parent-theme--optional}
+Version: ${7:a-number--optional}
+.
+${8:General comments/License Statement if any.}
+.
+*/$0</string>
+	<key>name</key>
+	<string>comment: declare</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>/</string>
+	<key>uuid</key>
+	<string>E0C62940-26A4-4307-953D-9FCE35E1430C</string>
+</dict>
+</plist>

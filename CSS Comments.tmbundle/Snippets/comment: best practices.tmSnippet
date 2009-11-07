@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*  KEEP OUR CSS CLEAN
+    Some guidelines to follow:
+    1. Break code down into sections.
+    2. Keep your rules alphabetically sorted.
+    3. Only put one selector per line for a block of rules that apply to multiple selectors.
+    4. Indent your rules, only one rule per line.
+    5. Indent proprietary properties with two spaces. Keep these properties directly below the proposed property.
+        
+        example:
+        
+        element#id,
+        element.class {
+            rule1: value;
+              -webkit-rule2: value;
+              -moz-rule2: value;
+            rule2: value;
+            top: value;
+        }
+*/$0</string>
+	<key>name</key>
+	<string>comment: best practices</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>/</string>
+	<key>uuid</key>
+	<string>E58DDA49-852F-458D-BEE8-81D55350158D</string>
+</dict>
+</plist>
